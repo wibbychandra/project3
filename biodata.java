@@ -10,8 +10,6 @@ public class Biodata {
         System.out.println("----------------");
      
       
-        
-      
       System.out.println("Nama = Acika Difa");
       System.out.println("Nim = 1920013212");
         System.out.println("Kelas = 3SC1");
